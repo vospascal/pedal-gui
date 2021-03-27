@@ -1,7 +1,7 @@
 # pedal-gui
 client gui to the arduino code found here https://github.com/vospascal/pedal-arduino/
 
-#screenshots
+# screenshots
 ![Alt text](pedals_tab.png?raw=true "pedals tab")
 
 ![Alt text](calibration_tab.png?raw=true "calibration tab")
