@@ -9,7 +9,7 @@
 ![Alt text](calibration_tab.png?raw=true "calibration tab")
 
 # help
-If you want to develop the software furter please let me know
+If you want to develop the software further please let me know
 
 ## if you like it
 please leave a star
