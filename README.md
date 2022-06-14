@@ -8,7 +8,7 @@
 
 ![Alt text](calibration_tab.png?raw=true "calibration tab")
 
-## available translations i18N
+## Available translations i18N
 - English
 - Dutch
 - German
@@ -19,17 +19,17 @@
 - Japanese
 - Turkish
 
-## theming 
+## Theming 
 support for light and dark theme
 
-# help
+## Help
 If you want to develop the software further please let me know you see something wrong with a translation or like to add one 
 please make a ticket 
 
-## if you like it
+## If you like it
 please leave a star
 
-## if you realy like it
+## If you realy like it
 you can donate further developent https://www.paypal.com/donate?business=TBPE6XCB2XBMW&item_name=pedalbox&currency_code=EUR
 
 
