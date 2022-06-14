@@ -8,11 +8,32 @@
 
 ![Alt text](calibration_tab.png?raw=true "calibration tab")
 
+## available translations i18N
+- English
+- Dutch
+- German
+- Italian
+- French
+- Spanish 
+- Portuguese
+- Japanese
+- Turkish
+
+## theming 
+support for light and dark theme
+
 # help
-If you want to develop the software furter please let me know
+If you want to develop the software further please let me know you see something wrong with a translation or like to add one 
+please make a ticket 
 
 ## if you like it
 please leave a star
 
 ## if you realy like it
 you can donate further developent https://www.paypal.com/donate?business=TBPE6XCB2XBMW&item_name=pedalbox&currency_code=EUR
+
+
+
+
+
+
